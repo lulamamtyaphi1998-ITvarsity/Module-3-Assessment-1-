@@ -24,6 +24,12 @@ body {
 
 /*=============== HOME ==============*/
 
+#home-logo-img {
+    width: 50px;
+    display: block;
+    margin:auto;
+}
+
 /*== HOME  PAGE MENU ==*/
 
 .home-menu-item{
