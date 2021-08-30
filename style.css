@@ -190,7 +190,7 @@ body {
 /*=============== RESPONSIVE LAYOUT ==============*/
 
 
-@media only screen and (min-width: 1000px) {
+@media only screen and (min-width: 600px) {
     #meals {
         width:80%;
         margin: auto;
@@ -198,6 +198,19 @@ body {
 
     #recipe {
         width:80%;
+        margin: auto;
+    }
+
+}
+
+@media only screen and (min-width: 1000px) {
+    #meals {
+        width:60%;
+        margin: auto;
+    }
+
+    #recipe {
+        width:60%;
         margin: auto;
     }
 
