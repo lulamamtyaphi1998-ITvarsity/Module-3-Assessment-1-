@@ -168,7 +168,8 @@ body {
 
 .recipe-details-info p{
     font-size: 13px;
-    display:inline-block;
+    display: inline-block;
+    background-color: pink;
 
 }
 
