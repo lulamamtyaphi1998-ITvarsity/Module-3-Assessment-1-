@@ -130,3 +130,14 @@ body {
     margin-top: -7px;
     padding-left: 10px;
 }
+
+
+/*=============== RECIPE PAGE ==============*/
+
+
+/*== RECIPE DETAILS ==*/
+
+.recipe-details img {
+    width: 100%;
+}
+
