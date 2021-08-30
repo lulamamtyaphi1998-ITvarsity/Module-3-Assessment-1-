@@ -185,3 +185,13 @@ body {
 .recipe-details-steps ol {
     padding-left:28px;
 }
+
+
+/*=============== RESPONSIVE LAYOUT ==============*/
+
+@media only screen (min-width: 600px) {
+    #meals {
+        width: 80%;
+        margin: auto;
+    }
+}
