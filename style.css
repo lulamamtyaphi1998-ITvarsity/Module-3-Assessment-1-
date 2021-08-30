@@ -30,6 +30,12 @@ body {
     margin:auto;
 }
 
+#home-logo-text {
+    width: auto;
+    display:block;
+    margin: auto;
+}
+
 /*== HOME  PAGE MENU ==*/
 
 .home-menu-item{
