@@ -171,3 +171,8 @@ body {
     display:inline-block;
 
 }
+
+.recipe-details-ingredients label {
+    line-height: 25px;
+    margin-left: 10px;
+}
