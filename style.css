@@ -78,6 +78,12 @@ body {
     padding-left: 10px;
 }
 
+.meals-list-item i {
+    float: right;
+    color: #1a1a1a;
+    padding-right:10px;
+}
+
 .meals-list-item p {
     font-size: 15px;
     font-style: italic;
