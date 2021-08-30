@@ -154,3 +154,14 @@ body {
 
 }
 
+.recipe-details-info {
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+
+.recipe-details-info p{
+    font-size: 13px;
+    display:inline-block;
+
+}
