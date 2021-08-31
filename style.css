@@ -108,6 +108,7 @@ body {
 .meals-list-item {
     border: border 5px solid #1a1a1a;
     margin: 10px;
+    background-color: pink;
 }
 
 .meals-list-item h1{
